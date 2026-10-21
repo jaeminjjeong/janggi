@@ -1,0 +1,6 @@
+{
+  "name": "한빛 온라인 장기 - 모바일 정통 장기",
+  "description": "실시간 온라인 대국, 인공지능 AI 대전, 기보 분석 및 관전이 가능한 한국 정통 모바일 장기 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
